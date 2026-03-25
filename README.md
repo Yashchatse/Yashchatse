@@ -24,7 +24,7 @@
 
 Backend developer at **Tech Solve**, building REST APIs and microservices in Java/Spring Boot. PG-DAC from CDAC Pune (2025). I write clean, scalable code — and I care about getting the internals right, not just making things work.
 
-Currently grinding: DSA (Striver's A-Z) · System Design · building [`gwcli`](https://github.com/Yashchatse) — a Java CLI for 16 Google APIs
+Currently grinding: DSA (Striver's A-Z) · System Design · building **CollabSpace** — a production-grade microservices platform
 
 ---
 
@@ -62,12 +62,30 @@ Currently grinding: DSA (Striver's A-Z) · System Design · building [`gwcli`](h
 
 ## Projects
 
-### 🔧 gwcli — Google Workspace CLI (WIP)
-> Java · Picocli · OAuth2 · 16 Google APIs
+### 🚀 CollabSpace — Team Collaboration Platform `[In Active Development]`
+> Java · Spring Boot · Microservices · JWT · WebSocket · Stripe · Docker
 
-A developer-first CLI tool for Google Workspace — covers Gmail, Calendar, Drive, Sheets, and more. JSON-first output, multi-account OAuth2, designed for scripting and automation workflows.
+A production-grade collaboration platform (think Notion + Trello) built on a **6-service microservices architecture**. Designed from the ground up with patterns used in real production systems.
 
-`java` `picocli` `oauth2` `rest-apis` `google-workspace`
+**Architecture highlights:**
+- API Gateway with centralised JWT validation — single auth enforcement point across all services
+- Database-per-service pattern — no shared state between microservices
+- Real-time updates via WebSocket (notifications, task changes)
+- **Payment service + Stripe webhook handling** ✅ *(built)*
+- File upload service with cloud storage integration
+- Environment-based secrets management
+
+**Services:**
+
+| Service | Status |
+|---|---|
+| API Gateway + Auth (JWT) | 🔨 In progress |
+| Project / Task Service | 🔨 In progress |
+| Payment Service + Webhooks | ✅ Done |
+| File Upload Service | 🔨 In progress |
+| Notification Service (WebSocket) | 🔨 In progress |
+
+`spring-boot` `microservices` `jwt` `websocket` `stripe` `docker` `jpa` `mysql`
 
 ---
 
@@ -86,6 +104,15 @@ A communication platform connecting parents and teachers. Led the project end-to
 College project — placed **3rd** in department. Full CRUD with reporting features and layered architecture (DAO/Service/Controller).
 
 `java` `mysql` `jdbc` `layered-architecture`
+
+---
+
+### 🔧 gwcli — Google Workspace CLI `[Up Next]`
+> Java · Picocli · OAuth2 · 16 Google APIs
+
+A developer-first CLI for Google Workspace — Gmail, Calendar, Drive, Sheets and more. JSON-first output, multi-account OAuth2 support, built for scripting and automation.
+
+`java` `picocli` `oauth2` `google-workspace`
 
 ---
 
