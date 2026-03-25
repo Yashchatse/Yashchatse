@@ -79,8 +79,8 @@ A production-grade collaboration platform (think Notion + Trello) built on a **6
 
 | Service | Status |
 |---|---|
-| API Gateway + Auth (JWT) | 🔨 In progress |
-| Project / Task Service | 🔨 In progress |
+| API Gateway + Auth (JWT) | ✅ Done |
+| Project / Task Service | ✅ Done |
 | Payment Service + Webhooks | ✅ Done |
 | File Upload Service | 🔨 In progress |
 | Notification Service (WebSocket) | 🔨 In progress |
