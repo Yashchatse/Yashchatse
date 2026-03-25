@@ -123,6 +123,7 @@ A developer-first CLI for Google Workspace — Gmail, Calendar, Drive, Sheets an
 ![Stats](https://github-readme-stats.vercel.app/api?username=Yashchatse&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Yashchatse&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yashchatse)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashchatse&theme=dark&hide_border=true&layout=compact)
 
