@@ -82,8 +82,8 @@ A production-grade collaboration platform (think Notion + Trello) built on a **6
 | API Gateway + Auth (JWT) | ✅ Done |
 | Project / Task Service | ✅ Done |
 | Payment Service + Webhooks | ✅ Done |
-| File Upload Service | 🔨 In progress |
-| Notification Service (WebSocket) | 🔨 In progress |
+| File Upload Service | ✅ Done |
+| Notification Service (WebSocket) | ✅ Done |
 
 `spring-boot` `microservices` `jwt` `websocket` `stripe` `docker` `jpa` `mysql`
 
