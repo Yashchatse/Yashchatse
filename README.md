@@ -120,11 +120,8 @@ A developer-first CLI for Google Workspace — Gmail, Calendar, Drive, Sheets an
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yashchatse&theme=dark&hide_border=true&show_icons=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yashchatse&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashchatse&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
