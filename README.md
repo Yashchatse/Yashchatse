@@ -62,8 +62,8 @@ Currently grinding: DSA (Striver's A-Z) · System Design · building **CollabSpa
 
 ## Projects
 
-### 🚀 CollabSpace — Team Collaboration Platform `[In Active Development]`
-> Java · Spring Boot · Microservices · JWT · WebSocket · Stripe · Docker
+### 🚀 CollabSpace — Team Collaboration Platform
+> Java · Spring Boot · Microservices · JWT · WebSocket · Razorpay · Docker
 
 A production-grade collaboration platform (think Notion + Trello) built on a **6-service microservices architecture**. Designed from the ground up with patterns used in real production systems.
 
@@ -71,7 +71,7 @@ A production-grade collaboration platform (think Notion + Trello) built on a **6
 - API Gateway with centralised JWT validation — single auth enforcement point across all services
 - Database-per-service pattern — no shared state between microservices
 - Real-time updates via WebSocket (notifications, task changes)
-- **Payment service + Stripe webhook handling** ✅ *(built)*
+- **Payment service + Razorpay webhook handling** 
 - File upload service with cloud storage integration
 - Environment-based secrets management
 
@@ -84,8 +84,9 @@ A production-grade collaboration platform (think Notion + Trello) built on a **6
 | Payment Service + Webhooks | ✅ Done |
 | File Upload Service | ✅ Done |
 | Notification Service (WebSocket) | ✅ Done |
+| Billing Service (Razorpay) | ✅ Done |
 
-`spring-boot` `microservices` `jwt` `websocket` `stripe` `docker` `jpa` `mysql`
+`spring-boot` `microservices` `jwt` `websocket` `razorpay` `docker` `jpa` `postgres`
 
 ---
 
@@ -107,7 +108,7 @@ College project — placed **3rd** in department. Full CRUD with reporting featu
 
 ---
 
-### 🔧 gwcli — Google Workspace CLI `[Up Next]`
+### 🔧 gwcli — Google Workspace CLI `[In Active Development]`
 > Java · Picocli · OAuth2 · 16 Google APIs
 
 A developer-first CLI for Google Workspace — Gmail, Calendar, Drive, Sheets and more. JSON-first output, multi-account OAuth2 support, built for scripting and automation.
