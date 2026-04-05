@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-### Java Backend Developer · Pune, India
+### Java Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chatse-06398425a)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ygfchatse@gmail.com)
