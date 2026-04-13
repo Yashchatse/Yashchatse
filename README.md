@@ -75,17 +75,6 @@ A production-grade collaboration platform (think Notion + Trello) built on a **6
 - File upload service with cloud storage integration
 - Environment-based secrets management
 
-**Services:**
-
-| Service | Status |
-|---|---|
-| API Gateway + Auth (JWT) | ✅ Done |
-| Project / Task Service | ✅ Done |
-| Payment Service + Webhooks | ✅ Done |
-| File Upload Service | ✅ Done |
-| Notification Service (WebSocket) | ✅ Done |
-| Billing Service (Razorpay) | ✅ Done |
-
 `spring-boot` `microservices` `jwt` `websocket` `razorpay` `docker` `jpa` `postgres`
 
 ---
