@@ -24,8 +24,6 @@
 
 Backend developer at **Tech Solve**, building REST APIs and microservices in Java/Spring Boot. PG-DAC from CDAC Pune (2025). I write clean, scalable code — and I care about getting the internals right, not just making things work.
 
-Currently grinding: DSA (Striver's A-Z) · System Design · building **CollabSpace** — a production-grade microservices platform
-
 ---
 
 ## Tech Stack
