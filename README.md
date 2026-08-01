@@ -94,13 +94,13 @@ College project — placed **3rd** in department. Full CRUD with reporting featu
 `java` `mysql` `jdbc` `layered-architecture`
 
 ---
-
+**
 ### 🔧 gwcli — Google Workspace CLI `[In Active Development]`
 > Java · Picocli · OAuth2 · 16 Google APIs
 
 A developer-first CLI for Google Workspace — Gmail, Calendar, Drive, Sheets and more. JSON-first output, multi-account OAuth2 support, built for scripting and automation.
 
-`java` `picocli` `oauth2` `google-workspace`
+`java` `picocli` `oauth2` `google-workspace`**
 
 ---
 
